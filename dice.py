@@ -1,6 +1,6 @@
 class Dice():
     def roll(self):
-        return 5
+        return 1
 
 
 if __name__ == "__main__":
